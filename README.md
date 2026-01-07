@@ -23,14 +23,17 @@ The files have not been uploaded yet, this will be removed when i do.
 <br>
 
 Schematic:
+
 ![Schematic](./schematic-files/Schematic.png)
 
 <br>
 
-Ui design (heavily "inspired")
+Ui design (heavily "inspired"):
+
 ![Desktop](./ui.jpeg)
 
 <br>
 
 Model:
+
 ![Model](./model-files/Model.jpeg)
