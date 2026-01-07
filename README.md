@@ -25,7 +25,9 @@ The files have not been uploaded yet, this will be removed when i do.
 
 
 ![Schematic](./schematic-files/Schematic.png)
+<br>
 
+![Model](./model.png)
 <br>
 
 ![Model](./model-files/Model.jpeg)
