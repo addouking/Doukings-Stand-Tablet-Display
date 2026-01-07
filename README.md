@@ -1,3 +1,6 @@
+<h3>Made this with yusufumben09, forking here for my own project</h3>
+
+
 <h1>Deck-like Display</h1>
 
 A deck like display for anything, customizable for displaying anything, like a dashboard. <br>
