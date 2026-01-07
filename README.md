@@ -18,11 +18,19 @@ This project will also most likely not need a PCB.
 The files have not been uploaded yet, this will be removed when i do.
 
 
-<h3>Screenshots for Schematic and Model: (SUBJECT TO CHANGE)</h3>
+<h3>Screenshots for stuff: (SUBJECT TO CHANGE)</h3>
 
+<br>
 
+Schematic:
 ![Schematic](./schematic-files/Schematic.png)
 
 <br>
 
+Ui design (heavily "inspired")
+![Desktop](./ui.jpeg)
+
+<br>
+
+Model:
 ![Model](./model-files/Model.jpeg)
