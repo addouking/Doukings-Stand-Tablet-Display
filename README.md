@@ -15,7 +15,7 @@ Alongside the screen, it will have 6 buttons that can be configured to do specif
 
 This project will also most likely not need a PCB.
 
-The files have not been uploaded yet, this will be removed when i do.
+The files have not been uploaded yet, this will be removed when i do. Nothing in the repo is final.
 
 
 <h3>Screenshots for stuff: (SUBJECT TO CHANGE)</h3>
