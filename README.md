@@ -38,7 +38,7 @@ Ui design (heavily "inspired"):
 
 Model:
 
-![Model](./model-files/Model.jpeg)
+![Model](./model-files/decklike.jpeg)
 
 BOM list:
 
