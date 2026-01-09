@@ -40,12 +40,12 @@ BOM list:
 
 | Part                       | Price      | Amount         | Total      | URL                                                                                                 |
 |----------------------------|------------|----------------|------------|-----------------------------------------------------------------------------------------------------|
-| Raspberry pi zero 2w       | 1.084,41TL | 1              | 1.084,41TL | https://market.samm.com/raspberry-pi-zero-2-w-header-baglantili                                     |
-| Mechanical red keyswitches | 219,61TL   | 1 (includes 6) | 219,61TL   | https://www.trendyol.com/spelt/outemu-kirmizi-mekanik-klavye-red-switch-yedek-tus-6-adet-p-54533028 |
-| Waveshare 7 inch display   | 2.664,02TL | 1              | 2.664,02TL | https://www.robotistan.com/7-inch-hdmi-kapasitif-dokunmatik-lcd-coklu-sistem-1024x600-h?language=tr&h=bc209024 |
-| Rotary encoder             | 30,55TL    | 1              | 30,55TL    | https://www.direnc.net/rotary-encoder-switchli                                                      |
+| Raspberry pi zero 2w       | 907.42TL | 1              | 907.42TL | https://www.robotistan.com/raspberry-pi-zero-2-w                                     |
+| Mechanical red keyswitches | 219.61TL   | 1 (includes 6) | 219.61TL   | https://www.trendyol.com/spelt/outemu-kirmizi-mekanik-klavye-red-switch-yedek-tus-6-adet-p-54533028 |
+| Waveshare 7 inch display   | 2,664.02TL | 1              | 2,664.02TL | https://www.robotistan.com/7-inch-hdmi-kapasitif-dokunmatik-lcd-coklu-sistem-1024x600-h?language=tr&h=bc209024 |
+| Rotary encoder             | 30.55TL    | 1              | 30.55TL    | https://www.direnc.net/rotary-encoder-switchli                                                      |
 
-Total: 3.771,18TL = 87,62 US dollars
+Total: 3,821.18TL = 88.98 US dollars
 
 I have access to a 3d printer and will be able to get my model printed myself.
 
