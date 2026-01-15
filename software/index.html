@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Decklike Display — Home</title>
+  <link href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div id="desktop" class="desktop">
+    <!-- Tile elements will be injected by JS -->
+  </div>
+
+  <!-- Notification/Message box -->
+  <div id="messageBox" class="message-box" hidden>
+    <div class="message-content">
+      <span id="messageText"></span>
+      <button id="closeMessage" class="close-msg">×</button>
+    </div>
+  </div>
+
+  <!-- Bottom toolbar -->
+  <div class="toolbar">
+    <button id="toggleEdit" class="tool-btn" title="Toggle Edit Mode">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 21v-3.75L14.06 6.19a2 2 0 0 1 2.83 0l1.92 1.92a2 2 0 0 1 0 2.83L7.75 21H3z"></path></svg>
+    </button>
+    <button id="openPresets" class="tool-btn" title="Load Preset">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M3 6h18M3 12h18M3 18h18"></path></svg>
+    </button>
+  </div>
+
+  <!-- Preset overlay -->
+  <div id="presetOverlay" class="overlay" hidden>
+    <div class="overlay-inner">
+      <h3>Presets</h3>
+      <div id="presetList" class="preset-list"></div>
+      <div class="overlay-actions"><button id="closeOverlay">Close</button></div>
+    </div>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

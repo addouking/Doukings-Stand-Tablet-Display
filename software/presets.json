@@ -1,0 +1,9 @@
+{
+  "tiles": [
+    {"type":"tasks","icon":"✓","label":"Tasks","defaultTitle":"My Tasks","config":{"tasks":[{"text":"Sample task 1","done":false},{"text":"Sample task 2","done":false}]}},
+    {"type":"weather","icon":"☁","label":"Weather","defaultTitle":"Weather","config":{"city":"London"}},
+    {"type":"crypto","icon":"₿","label":"Crypto","defaultTitle":"Crypto Prices","config":{"coins":"bitcoin,ethereum"}},
+    {"type":"quote","icon":"💬","label":"Quote","defaultTitle":"Daily Quote","config":{}},
+    {"type":"pcstats","icon":"⚙","label":"System Stats","defaultTitle":"PC Stats","config":{"items":[{"k":"CPU","v":"--°C"},{"k":"GPU","v":"--°C"}]}}
+  ]
+}
